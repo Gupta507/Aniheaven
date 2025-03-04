@@ -1,1 +1,16 @@
-{}
+{
+    "name": "aniheaven",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+      "install:client": "cd frontend && npm install",
+      "install:server": "cd backend && npm install",
+      "build": "cd frontend && npm run build",
+      "start": "cd backend && npm run start",
+      "dev": "concurrently \"cd frontend && npm run dev\" \"cd backend && npm run dev\""
+    },
+    "devDependencies": {
+      "concurrently": "^8.2.2"
+    }
+  }
+  
