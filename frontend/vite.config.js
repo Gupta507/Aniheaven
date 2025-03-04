@@ -11,6 +11,7 @@ export default defineConfig({
     },
   },
   build: {
+    outDir: "dist", // Ensure Vite outputs the build files here
     rollupOptions: {
       output: {
         manualChunks: {
