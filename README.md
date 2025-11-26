@@ -1,10 +1,8 @@
-> ⚠️ Disclaimer: This README is written in Gen Z language fr fr. If you're not ready for some based content, keep scrolling bestie 💀
-
-# ✨ AniHeaven - Watch Anime or Keep Scrolling fr fr
+# ✨ AniHeaven — Your New Favorite Anime Platform
 
 <div align="center">
   <img src="frontend/public/textLogo.svg" alt="AniHeaven Logo" width="200"/>
-  <h3>The Most Based Anime Platform You'll Ever Find istg 💀</h3>
+  <h3>A clean, modern, actually enjoyable anime streaming experience</h3>
 
 [![React](https://img.shields.io/badge/React-18.3.1-61dafb.svg?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-5.4.8-646cff.svg?style=for-the-badge&logo=vite)](https://vitejs.dev/)
@@ -12,176 +10,148 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 
   <p align="center">
-    <a href="#demo">Demo ⚡</a>
-    ·
-    <a href="#features">Features that Slap</a>
-    ·
-    <a href="#installation">Start Your Journey</a>
-    ·
-    <a href="#contributing">Join the Squad fr</a>
+    <a href="#demo">Demo ⚡</a> ·
+    <a href="#features">Features</a> ·
+    <a href="#installation">Get Started</a> ·
+    <a href="#contributing">Contribute</a>
   </p>
 </div>
 
-## 🎬 Why AniHeaven Hits Different
+## 🎬 Why AniHeaven Is Actually Good
 
-Other anime sites be looking like they're stuck in 2010 fr fr 💀
+A lot of anime sites feel outdated and slow. AniHeaven brings a clean UI, fast performance, and a modern streaming experience that's actually enjoyable. Smooth, fast, and free.
 
-But AniHeaven? We built different. No cap, we created something so fire it makes other sites look like they running Internet Explorer. Built with that cutting-edge tech that'll make your streaming experience actually enjoyable (real). And the best part? It's FREE.99! 🔥
+## ✨ Features
 
-## ✨ Features That Make Us THAT Site
+### 🎥 Smarter Video Player
+- Auto-skip intros/outros
+- Quality options that actually work
+- Saves your watch progress
+- Keyboard shortcuts for quick control
 
-### 🎥 Video Player That Never Misses
+### 🎨 Clean & Modern UI
+- Dark mode by default  
+- Smooth transitions  
+- Fully responsive  
+- Simple, intuitive navigation  
 
-- **The Real MVP:**
-  - Auto-skips intros because we know you've seen them 100x
-  - Quality settings that actually work fr
-  - Remembers where you left off (we got you)
-  - Keyboard shortcuts because we're built different
+### 🚀 Fast Performance
+- Very fast load times  
+- Optimized caching  
+- Quick image rendering  
+- Minimal buffering  
 
-### 🎨 UI That Passes Every Vibe Check
+### 🔍 Smart Tools
+- Accurate search  
+- Useful filters  
+- Recommendations that make sense  
+- Watch history tracking  
+- Save favorites  
 
-- **Clean and Crispy:**
-  - Dark mode by default (your eyes will thank us)
-  - Transitions smoother than your rizz game
-  - Responsive on every device no cap
-  - Navigation that just makes sense fr
+### 🔄 Always Improving
+- Frequent anime updates  
+- New features regularly  
+- Performance enhancements  
+- Bug fixes  
 
-### 🚀 Speed That Makes Flash Look Slow
-
-- **No Lag Zone:**
-  - Loads faster than your bestie's replies
-  - Galaxy brain caching system
-  - Images load before you can blink
-  - Buffering? We don't know her 💅
-
-### 🎯 Features That Go Hard
-
-- **Big Brain Energy:**
-  - Search that actually finds what you want
-  - Filter system that understood the assignment
-  - Recommendations that never miss
-  - Track your anime journey
-  - Save your comfort shows fr
-
-### 🔄 Updates That Don't Miss
-
-- **We Stay Winning:**
-  - New anime drops on the regular
-  - Features keep getting better
-  - Performance boosts go crazy
-  - Bugs get ratio'd fr
-
-## 🛠️ The Secret Sauce (Real Tech Hours)
+## 🛠️ Tech Stack
 
 <details>
-<summary>Click for the Forbidden Knowledge fr</summary>
+<summary>Show Details</summary>
 
-### Frontend Stack
+### Frontend
+- React 18.3.1  
+- Vite 5.4.8  
+- TailwindCSS, DaisyUI  
+- Framer Motion  
 
-- **Framework:** React 18.3.1
-- **Build Tool:** Vite 5.4.8
-- **Styling:**
-  - TailwindCSS (for that aesthetic)
-  - DaisyUI
-  - Framer Motion (smooth like butter)
+### State & Routing
+- React Query  
+- React Router DOM  
+- Recoil  
 
-### State Management
+### Media / Player
+- Vidstack React  
+- HLS.js  
+- React Player  
 
-- TanStack React Query
-- React Router DOM (navigation that slaps)
-- Recoil (state management done right)
-
-### Media Handling
-
-- Vidstack React
-- HLS.js (streaming magic fr)
-- React Player
-
-### UI Components
-
-- Swiper (clean slides)
-- React Icons (icons that pop)
-- React Hot Toast
-- NProgress (loading bars that look good)
+### UI / Extras
+- Swiper  
+- React Icons  
+- React Hot Toast  
+- NProgress  
 
 ### Dev Tools
-
-- ESLint (keeps code clean)
-- Prettier (makes it look good)
-- Husky
-- Commitlint
+- ESLint  
+- Prettier  
+- Husky  
+- Commitlint  
 
 </details>
 
-## 🚀 Getting Started (Speed Run Any%)
+## 🚀 Installation Guide
 
-### The Essentials
+### Requirements
+- Node.js 16+  
+- npm / yarn  
+- Git  
 
-- Node.js 16.x or higher
-- npm or yarn
-- Git (obviously)
+### Quick Start
 
-### Quick Start Guide
-
-1. Grab the code:
-
-```bash
+\`\`\`\`bash
 git clone https://github.com/yourusername/aniheaven.git
-```
+\`\`\`\`
 
-2. Install the goods:
-
-```bash
+\`\`\`\`bash
 cd aniheaven
 npm install
-```
+\`\`\`\`
 
-3. Let it cook:
-
-```bash
+\`\`\`\`bash
 npm run dev
-```
+\`\`\`\`
 
-## 📱 Screenshots That Go Hard
+## 📱 Screenshots
 
 <div align="center">
-  <img src="./public/s1.png" alt="Home Page" width="400"/>
-  <img src="./public/s2.png" alt="Video Player" width="400"/>
-  <img src="./public/s3.png" alt="Video Player" width="400"/>
-  <img src="./public/s4.png" alt="Video Player" width="400"/>
-  <img src="./public/s5.png" alt="Video Player" width="400"/>
-  <img src="./public/s6.png" alt="Video Player" width="400"/>
-  <img src="./public/s7.png" alt="Video Player" width="400"/>
-  <img src="./public/s8.png" alt="Video Player" width="400"/>
-  <img src="./public/s9.png" alt="Video Player" width="400"/>
-
+  <img src="./public/s1.png" width="400"/>
+  <img src="./public/s2.png" width="400"/>
+  <img src="./public/s3.png" width="400"/>
+  <img src="./public/s4.png" width="400"/>
+  <img src="./public/s5.png" width="400"/>
+  <img src="./public/s6.png" width="400"/>
+  <img src="./public/s7.png" width="400"/>
+  <img src="./public/s8.png" width="400"/>
+  <img src="./public/s9.png" width="400"/>
 </div>
 
-## 🤝 Join the Movement
+## 🤝 Contributing
 
-Wanna make AniHeaven even better? Say less fr:
+Want to help make AniHeaven better?
 
-1. Fork this heat
-2. Create your feature branch (`git checkout -b feature/something-fire`)
-3. Drop that heat (`git commit -m 'added some fire'`)
-4. Push it real good (`git push origin feature/something-fire`)
-5. Drop that PR and watch it get accepted fr
+1. Fork the repo  
+2. Create a new branch:  
+   `git checkout -b feature/your-feature`  
+3. Commit your changes  
+4. Push the branch  
+5. Open a pull request  
 
-## 📜 Legal Stuff (Boring but Important fr)
+## 📜 License
 
-Licensed under MIT - check the [LICENSE](LICENSE) file if you're into that kind of thing
+MIT License — see the [LICENSE](LICENSE) file.
 
-## 🙏 Big W's to the Real Ones
+## 🙏 Credits
 
-- HiAnime API for the sauce
-- MAL/Jikan API for the extra drip
-- All the homies who contributed
-- Open-source fam keeping it real
+- HiAnime API  
+- MAL/Jikan API  
+- Open-source contributors  
 
 ---
 
 <div align="center">
-  Made with 💜 by weebs who never miss
-  
-  [Check the Vibe](https://aniheaven.vercel.app) · [Report Issues](https://github.com/Raaaaaaamim/aniheaven/issues) · [Request Features](https://github.com/Raaaaaaamim/aniheaven/issues)
+  Made with 💜 by people who love anime maybe a bit too much  
+
+  [Website](https://aniheaven.vercel.app) ·  
+  [Issues](https://github.com/Raaaaaaamim/aniheaven/issues) ·  
+  [Feature Requests](https://github.com/Raaaaaaamim/aniheaven/issues)
 </div>
